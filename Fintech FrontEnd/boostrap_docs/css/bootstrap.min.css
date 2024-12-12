@@ -207,7 +207,15 @@
     background: linear-gradient(90deg, #00c093, #00768d);
     box-shadow: 2px 1px 5px rgba(0, 0, 0, 0.253);
 }
+.btn-custom {
+    display: flex;
+    align-items: center;
+}
 
+.btn-custom img {
+    width: 30px;
+    margin-right: 10px;
+}
 .card-1 {
     max-width: 100%;
     /* Defina a largura do card */
